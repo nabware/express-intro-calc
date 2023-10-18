@@ -16,5 +16,5 @@ function convertStrNums(strNums) {
   });
 }
 
-
+//TODO: difference between Number.isNaN() vs isNaN()
 module.exports = { convertStrNums };
